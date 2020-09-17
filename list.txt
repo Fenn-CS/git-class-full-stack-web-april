@@ -2,5 +2,4 @@ Names of people who understand git
 ==================================
 
 1. Fon E. Noel NFEBE
-2. I added this on Pila's branch.
-3.PILA Muluh Jude was born on 07/05/1987.
+2.PILA Muluh Jude DOB 07/05/1987.
